@@ -1,2 +1,3 @@
-var/
-vendor/
+app/vendor/
+.idea/
+app/var/.phpunit.result.cache

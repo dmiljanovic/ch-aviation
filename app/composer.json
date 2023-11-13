@@ -17,6 +17,8 @@
         }
     },
     "require": {
-        "symfony/console": "^6.1"
+        "symfony/console": "^6.1",
+        "stolt/json-lines": "^4.0",
+        "nesbot/carbon": "^2.71"
     }
 }
