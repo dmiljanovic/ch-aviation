@@ -46,5 +46,7 @@ You can run the analyzer via `App\Infrastructure\ParseCommand`.
 
 You can write the answers for bonus points here, in the README.md file.
 1. Can you name all the countries where Airplanes from our example are registered?
+   2. Hungary, Germany, Belgium
 2. If you had to spell your country code over the radio, how would you do it?
+    2. Sierra Romeo Bravo
 
